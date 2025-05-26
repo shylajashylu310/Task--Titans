@@ -1,2 +1,2 @@
-# Task--Titans
-This is a group Project.
+Wrten a c program
+#include<stdio.h>
